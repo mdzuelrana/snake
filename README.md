@@ -1,2 +1,2 @@
-# snake
+# snakegame.cpp
 first project
